@@ -1,0 +1,11 @@
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\IMS.DAL.dll
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\IMS.DAL.pdb
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\IMS.Models.dll
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\RestSharp.dll
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\IMS.Models.pdb
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\bin\Debug\RestSharp.xml
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\obj\Debug\IMS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\obj\Debug\IMS.DAL.dll
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DAL\obj\Debug\IMS.DAL.pdb

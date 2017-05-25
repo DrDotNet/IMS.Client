@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="IMSWebClient20170521084516" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\ahmad\.zaroor\\documents\\visual\ studio\ 2015\\Projects\\IMS\.Client\.Console\\IMS\.WebClient\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\ahmad\.zaroor\\documents\\visual\ studio\ 2015\\Projects\\IMS\.Client\.Console\\IMS\.WebClient\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-IMS.WebClient-20170521084645.mdf;Initial Catalog=aspnet-IMS.WebClient-20170521084645;Integrated Security=True" tags="">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\ahmad\.zaroor\\documents\\visual\ studio\ 2015\\Projects\\IMS\.Client\.Console\\IMS\.WebClient\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

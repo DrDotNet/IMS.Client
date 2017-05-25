@@ -1,0 +1,13 @@
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\IMS.DALTests.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\IMS.DALTests.pdb
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\IMS.DAL.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\IMS.Models.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\RestSharp.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\IMS.DAL.pdb
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\IMS.Models.pdb
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\bin\Debug\RestSharp.xml
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\obj\Debug\IMS.DALTests.csprojResolveAssemblyReference.cache
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\obj\Debug\IMS.DALTests.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.DALTests\obj\Debug\IMS.DALTests.pdb

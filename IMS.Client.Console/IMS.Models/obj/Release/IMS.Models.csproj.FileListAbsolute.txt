@@ -1,0 +1,4 @@
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Models\bin\Release\IMS.Models.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Models\bin\Release\IMS.Models.pdb
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Models\obj\Release\IMS.Models.dll
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Models\obj\Release\IMS.Models.pdb

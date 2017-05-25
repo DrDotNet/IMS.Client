@@ -1,0 +1,6 @@
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Client.Console\bin\Debug\IMS.Client.Console.exe.config
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Client.Console\bin\Debug\IMS.Client.Console.exe
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Client.Console\bin\Debug\IMS.Client.Console.pdb
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Client.Console\obj\Debug\IMS.Client.Console.exe
+c:\users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Client.Console\obj\Debug\IMS.Client.Console.pdb
+C:\Users\ahmad.zaroor\documents\visual studio 2015\Projects\IMS.Client.Console\IMS.Client.Console\obj\Debug\IMS.Client.Console.csprojResolveAssemblyReference.cache
